@@ -13,7 +13,7 @@ const mentionSpamFilter = xrequire('./filters/mentionSpamFilter');
 const handleTrigger = xrequire('./handlers/triggerHandler');
 const handleUserLevel = xrequire('./handlers/levelHandler');
 const handleCommand = xrequire('./handlers/commandHandler');
-const handleConversation = xrequire('./handlers/conversationHandler');
+const handleConversation = xrequire('./handlers/conversationHandler2');
 const handleDirectMessage = xrequire('./handlers/directMessageHandler');
 let recentLevelUps = [];
 
